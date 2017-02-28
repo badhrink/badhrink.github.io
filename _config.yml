@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "ML and Other Rants"
+title                    : "Bad's Blog"
 title_separator          : "-"
 name                     : "Badhri Narayanan Krishnakumar"
 description              : "My Stupid Blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Badhri Narayanan Krishnakumar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a CS Masters Student"
-  location         : "University of Illinois at Chicago"
+  bio              : "I am a CS Masters Student @ UIC"
+  location         : "Chicago"
   email            :
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "badhrink"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
