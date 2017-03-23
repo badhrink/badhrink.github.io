@@ -20,7 +20,7 @@ Right now, Machine Learning is in a state of rapid transformation and bold claim
 Good tech journalists exist but I believe there are only a handful of them covering AI. There is a lot of AI hyperbole in the mainstream news(from Terminator-esque pictures to dystopian explanations [totally disconnected](https://smerity.com/articles/2017/deepcoder_and_ai_hype.html) from actual research). I will run you through the ways in which I usually get my ML news from and hopefully you'll get to know a few new sources, in addition to the ones you already know.
 
 ### Online Forums
-* *Reddit and the associated problems* - People have a love-hate relationship with the subreddit [r/machinelearning](https://www.reddit.com/r/MachineLearning/). I visit this sub at least twice a day. I love it but I also can understand why some people hate it. I honestly think with good moderation everyone can contribute to and learn from this sub.
+* *Reddit and the associated problems* - People have a love-hate relationship with the subreddit [r/machinelearning](https://www.reddit.com/r/MachineLearning/). I visit this sub at least twice a day. I love it but I also can understand why some people hate it. I honestly think with good moderation, everyone can contribute to and learn from this sub.
   - As soon as some good project/paper is published, I can trust fellow redditors to bring it to r/machinelearning. And some meaningful discussions happen and they do get a lot of people [involved](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/de72nnr/) - from actual researchers, practitioners to general public.
   - Since this subreddit has people from all walks of Machine Learning, it generally tends to favor/upvote the current hot topics(read, Deep Learning) so sometimes significant Bayesian-leaning and other researches do not get popular or even get listed. So watch out for the inherent [bias](https://twitter.com/dustinvtran/status/818952821957595136).
   - This sub has a great involvement from research community - I have seen meaningful discussions/clarifications with leading researchers in the industry and academia. Oh, the AMAs are awesome(check out the column on the right). The yang to this yin is, sometimes people get trolled for [no apparent reason](https://twitter.com/fchollet/status/751257022385889280).
@@ -35,7 +35,7 @@ If you need a starting point, check out these two links [Twitter ML](https://www
 
 ### Newsletters
 If your schedule is packed, usually, then this option will definitely work out for you. These two newsletters bring you a curated weekly updates and I totally recommend both of them.
-  - [Import AI](https://jack-clark.net/import-ai/) is OpenAI's Strategy and Communications Director and curates this AI Newsletter.
+  - [Import AI](https://jack-clark.net/import-ai/) Jack Clark is OpenAI's Strategy and Communications Director and he curates this AI Newsletter.
   - [WildML](https://www.getrevue.co/profile/wildml) is curated by [Denny Britz](https://www.getrevue.co/profile/wildml). He always keeps it short and sweet.
 
 ### Arxiv and ML Conference Pages
